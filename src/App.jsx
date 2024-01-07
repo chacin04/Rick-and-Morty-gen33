@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import "./App.css";
 import useFetch from "./hooks/useFetch";
 import getRandomNumber from "./utils/getRandomNumber";
-import { LocationCard } from "./components/locationCard";
+import  LocationCard  from "./components/LocationCard";
 import ResidentsCard from "./components/ResidentsCard";
 
 function App() {
